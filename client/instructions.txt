@@ -1,0 +1,5 @@
+# Open setup.py and replace the first write_your_user1_inbetween_the_parenthesis with your API key, and the second write_your_user1_inbetween_the_parenthesis with your api second.
+
+# Keep in mind those are stored in your devices and nothing is communicated due to the already present protective coinbase algo.
+
+# Feel free to tip bc1q8622jnj80dfjtcn6hfjjpn38973c2v89wdevds if you are feeling generous. I am not making anything off of this :-D
