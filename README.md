@@ -37,7 +37,7 @@ To install the required composants, run those commands.
 ```
 ## Run the Product
 
-Once those commands are ran, set your api kys in the setup.py file and then start trade.py from a terminal : py .\trade.py
+Once those commands are ran, set your api kys in the setup.py file and then start trade.py from a terminal : **py .\trade.py**
 
 
 
