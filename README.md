@@ -1,7 +1,6 @@
 
 # 📈 COINBASE-DEDICATED One-Time trade Profits
 ![Logo](https://media.discordapp.net/attachments/985242946880282634/1061344185787088996/th5xamgrr6se0x5ro4g612.png)
-A brief description of what this project does and who it's for
 
 
 ## API Reference 
